@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "username": "admin", "password": "1234", "role": "Administrator" },
+    { "id": 2, "username": "student1", "password": "abcd", "role": "Student" }
+  ],
+  "achievements": [
+    { "id": 1, "student": "Prasad", "title": "Best Coder", "year": 2025 },
+    { "id": 2, "student": "Ravi", "title": "Top Performer", "year": 2024 }
+  ],
+  "exams": [
+    { "id": 1, "subject": "Math", "marks": 95 },
+    { "id": 2, "subject": "Science", "marks": 89 }
+  ]
+}
